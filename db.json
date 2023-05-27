@@ -1,0 +1,30 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "ptitle": "Ashish Properties",
+      "pprice": "98522.0",
+      "plocation": "utter pradesh",
+      "pdetails": "Plot avaible for 2 room set"
+    },
+    {
+      "id": 2,
+      "ptitle": "pingpong",
+      "pprice": "816306",
+      "plocation": "home",
+      "pdetails": "3bhk room set plot"
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "body": "Ashish Mishra",
+      "email": "ashish@gmail.com",
+      "mobile": "7878968574",
+      "password": "ashish@12345"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
